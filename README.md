@@ -32,7 +32,6 @@ function initCredentials()
 
 class TestRRRGeneratorAndStatus
 {
-
     function test()
     {
         $credentials = initCredentials();
